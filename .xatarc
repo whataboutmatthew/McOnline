@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Matthew-s-workspace-6sof4a.us-east-1.xata.sh/db/McOnline",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
